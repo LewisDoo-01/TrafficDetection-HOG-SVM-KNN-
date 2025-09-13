@@ -31,3 +31,5 @@ Driver assistance systems (ADAS).
 Autonomous vehicles.
 
 Intelligent traffic monitoring.
+
+<img width="885" height="620" alt="image" src="https://github.com/user-attachments/assets/fb96e9da-8be1-4cb3-bd0e-34023167f797" />
